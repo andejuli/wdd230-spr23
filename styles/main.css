@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@400;500&display=swap');
 a {
+    font-family: Roboto, Helvetica, san-serif;
     color: navy;
+    font-weight: 500;
 }
